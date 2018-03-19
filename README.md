@@ -1,0 +1,1 @@
+## A simple system for managing school news, and other related tech.
